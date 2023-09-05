@@ -5,12 +5,13 @@ import Part1 from './Part1'
 import Part2 from './Part2'
 import Part3 from './Part3'
 import Part4 from './Part4'
+import Navbar from './Navbar'
 
 
 function App() {
   return (
     <div>
-
+      <Navbar />
       <Routes>
         <Route path='/' element={<Part1 />}></Route>
         <Route path='/part2' element={<Part2 />}></Route>
