@@ -13,7 +13,6 @@ function Part3({orgOrmData, accountPlanOrmData}) {
           if (index === 4) {
             return <Part3Card key={org.orgName} org={org} accountPlanOrmData={accountPlanOrmData}/>
           }
-            
           })}
       </div>
     </div>
