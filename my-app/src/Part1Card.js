@@ -33,14 +33,15 @@ if ((org.setup.optimization.integrations) === false) {
 
   return (
 
-    <div>
-        <h3>myShopifyDomain: {org.myShopifyDomain}</h3>
-        {/* <h3>myShopifyDomain: {org.myShopifyDomain}</h3> */}
-        <h2>Optimization Settings:</h2>
-        <h3>Shipping: {shipping}</h3>
-        <h3>Theming: {theming}</h3>
-        <h3>Transaction: {transaction}</h3>
-        <h3>Integrations: {integrations}</h3>
+    <div className='output'>
+        <h3>{org.myShopifyDomain}</h3>
+        <div className='settings'>
+            <p>Shipping: {shipping}</p>
+            <p>Theming: {theming}</p>
+            <p>Transaction: {transaction}</p>
+            <p>Integrations: {integrations}</p>
+        </div>
+        
     </div>
   )
 }
