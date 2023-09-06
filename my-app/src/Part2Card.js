@@ -19,7 +19,6 @@ accountPlanOrmData.map((planData) => {
 let date = org.createdDate.split(" ")
 date = date[0].split("-")
 date = `${date[1]} / ${date[2]} / ${date[0]}`
-console.log(date)
  
   return (
     <div className='part2-output'>
@@ -28,9 +27,8 @@ console.log(date)
             <p>Plan Name: {plan}</p>
             <p>Status: {status}</p>
             <p>Date Created: {date}</p>
+        </div>
     </div>
-    
-</div>
   )
 }
 
