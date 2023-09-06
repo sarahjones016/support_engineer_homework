@@ -33,9 +33,9 @@ if ((org.setup.optimization.integrations) === false) {
 
   return (
 
-    <div className='output'>
+    <div className='part1-output'>
         <h3>{org.myShopifyDomain}</h3>
-        <div className='settings'>
+        <div className='part1-settings'>
             <p>Shipping: {shipping}</p>
             <p>Theming: {theming}</p>
             <p>Transaction: {transaction}</p>

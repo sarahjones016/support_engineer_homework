@@ -19,7 +19,8 @@ function Part1({orgOrmData}) {
 
   return (
     <div className='part1'>
-      <h1>Find Optimization Settings</h1>
+      <h1>Optimization Settings</h1>
+      <p className='title-description'>Takes the value of a myShopifyDomain field as an input and returns their optimization settings</p>
       <select
         value={search}
         onChange={(e) => handleSearch(e.target.value)}
