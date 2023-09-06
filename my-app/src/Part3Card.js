@@ -14,8 +14,6 @@ accountPlanOrmData.map((accountPlanData) => {
         return status 
     })
 
-
-
   return (
     <div className='part3-output'>
         <h3>{org.orgName}</h3>
