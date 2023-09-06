@@ -27,7 +27,7 @@ function App() {
       <Routes>
           <Route path='/' element={<Part1 orgOrmData={orgOrmData}/>}></Route>
           <Route path='/part2' element={<Part2 orgOrmData={orgOrmData} accountPlanOrmData={accountPlanOrmData} />}></Route>
-          <Route path='/part3' element={<Part3 />}></Route>
+          <Route path='/part3' element={<Part3 orgOrmData={orgOrmData} accountPlanOrmData={accountPlanOrmData} />}></Route>
           <Route path='/part4' element={<Part4 />}></Route>
       </Routes>
     </div>
