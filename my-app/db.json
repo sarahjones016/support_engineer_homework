@@ -2,8 +2,8 @@
     "fakeData": {
         "organization_orm":[
             {
-                "createdDate": "2023-01-20 4:07:20",
-                "updatedDate": "2023-01-20 5:14:51",
+                "createdDate": "2023-01-20 04:07:20",
+                "updatedDate": "2023-01-20 05:14:51",
                 "deletedAt": null,
                 "id": "cce0223a-fcac-4953-9137-3c5c10c158c3",
                 "orgName": "Test Account 1",
@@ -46,8 +46,8 @@
                 "lookerDashboardPrefix": "/embed/dashboards-next/28?embed_domain="
               },
               {
-                "createdDate": "2023-01-20 0:17:02",
-                "updatedDate": "2023-01-20 0:44:55",
+                "createdDate": "2023-01-20 00:17:02",
+                "updatedDate": "2023-01-20 00:44:55",
                 "deletedAt": null,
                 "id": "75f223ec-2ede-4b38-9096-f9333d4141c7",
                 "orgName": "Test Account 2",
@@ -135,8 +135,8 @@
                 "lookerDashboardPrefix": "/embed/dashboards-next/28?embed_domain="
               },
               {
-                "createdDate": "2023-01-19 4:55:25",
-                "updatedDate": "2023-01-19 4:55:25",
+                "createdDate": "2023-01-19 04:55:25",
+                "updatedDate": "2023-01-19 04:55:25",
                 "deletedAt": null,
                 "id": "53980994-173e-4620-b560-2c2c437953ec",
                 "orgName": "Test Account 4",
@@ -179,7 +179,7 @@
                 "lookerDashboardPrefix": "/embed/dashboards-next/28?embed_domain="
               },
               {
-                "createdDate": "2023-01-19 1:54:32",
+                "createdDate": "2023-01-19 01:54:32",
                 "updatedDate": "2023-01-19 14:56:28",
                 "deletedAt": null,
                 "id": "c535b056-fe20-4409-ab16-a4b7c5e7dff6",
@@ -399,8 +399,8 @@
                 "lookerDashboardPrefix": "/embed/dashboards-next/28?embed_domain="
               },
               {
-                "createdDate": "2023-01-18 3:54:45",
-                "updatedDate": "2023-01-18 3:54:45",
+                "createdDate": "2023-01-18 03:54:45",
+                "updatedDate": "2023-01-18 03:54:45",
                 "deletedAt": null,
                 "id": "88684712-d564-41be-b37f-4e8084439806",
                 "orgName": "Test Account 10",
@@ -486,8 +486,8 @@
                 "reportUsageAt": null
               },
               {
-                "createdDate": "2023-01-20 0:17:02",
-                "updatedDate": "2023-01-20 0:17:02",
+                "createdDate": "2023-01-20 00:17:02",
+                "updatedDate": "2023-01-20 00:17:02",
                 "deletedAt": null,
                 "id": "af071cb8-abc5-4dfa-ba2e-2cf930447587",
                 "shopifyId": null,
@@ -523,8 +523,8 @@
                 "reportUsageAt": null
               },
               {
-                "createdDate": "2023-01-20 4:07:20",
-                "updatedDate": "2023-01-20 4:07:20",
+                "createdDate": "2023-01-20 04:07:20",
+                "updatedDate": "2023-01-20 04:07:20",
                 "deletedAt": null,
                 "id": "05078458-d1c4-4221-b702-057c33f7e8ee",
                 "shopifyId": null,
@@ -605,8 +605,8 @@
                 "reportUsageAt": null
               },
               {
-                "createdDate": "2023-01-19 4:55:25",
-                "updatedDate": "2023-01-19 4:55:25",
+                "createdDate": "2023-01-19 04:55:25",
+                "updatedDate": "2023-01-19 04:55:25",
                 "deletedAt": null,
                 "id": "5ef30cf7-50ce-4456-88c7-218b47588515",
                 "shopifyId": null,
@@ -645,7 +645,7 @@
                 "reportUsageAt": null
               },
               {
-                "createdDate": "2023-01-19 1:54:32",
+                "createdDate": "2023-01-19 01:54:32",
                 "updatedDate": "2023-01-19 14:57:05",
                 "deletedAt": null,
                 "id": "8217d6fb-911f-4da4-be35-e8cbf091fb62",
@@ -768,7 +768,7 @@
                 "reportUsageAt": null
               },
               {
-                "createdDate": "2023-01-19 1:54:32",
+                "createdDate": "2023-01-19 01:54:32",
                 "updatedDate": "2023-01-19 14:57:05",
                 "deletedAt": null,
                 "id": "111da83a-98d0-11ed-a8fc-0242ac120002",
